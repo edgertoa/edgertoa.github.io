@@ -1,2 +1,2 @@
 # edgertoa.github.io
-Added text
+This is the start of my personal website
